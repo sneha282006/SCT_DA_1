@@ -28,11 +28,11 @@ This project was completed as part of the SkillCraft Technology Data Analytics I
 
 ## 📂 Files Included
 
-* SuperStore_Sales_Dashboard
+* SuperStore_Sales_Dashboard.xlsx
 * sales_analysis
-* profit
-* time_and_trend_analysis
-* Project Screenshot
+* profit analysis.png
+* time and trend.png
+* superstore sales .png
 
 ## 🚀 Skills Demonstrated
 
